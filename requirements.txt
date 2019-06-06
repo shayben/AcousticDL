@@ -1,0 +1,4 @@
+librosa==0.6.3
+pandas==0.24.2
+fastprogress==0.1.21
+tensorwatch
