@@ -3,11 +3,11 @@ For the acoustic modeling workshop @ microsoft
 
 Please make sure you have the following installed on your machine (preferably a CUDA enabled device):
 
-*	Python 3.7 (ideally, under the latest Anaconda)
+*	Python 3.7. Ideally, under the latest Anaconda from https://www.anaconda.com/
 
-*	A working installation of the latest Pytorch.
+*	A working installation of the latest Pytorch from https://pytorch.org/
 
-*	Git
+*	Git from https://gitforwindows.org/
 
 *	a clone of the following workshop repository: https://github.com/shayben/AcousticDL.git
 
