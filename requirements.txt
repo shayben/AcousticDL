@@ -1,7 +1,4 @@
 librosa>=0.6.3
 pandas>=0.24.2
 fastprogress>=0.1.21
-Pillow>=4.1.1
-torch>=0.4.1
-torchvision>=0.2.2
 tensorwatch
